@@ -1,0 +1,6 @@
+@RetailAIAssitant_HostAddress = http://localhost:5014
+
+GET {{RetailAIAssitant_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
